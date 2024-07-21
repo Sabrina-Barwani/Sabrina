@@ -36,8 +36,6 @@
 				
 			]
 	
-	def getCity():
-		return Vancouver_Canada()
 	
 
 	
